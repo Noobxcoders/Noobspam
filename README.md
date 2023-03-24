@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/TheAltron"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<p align="center"><a href="https://t.me/TheAltron"><img src="https://te.legra.ph/file/b251302d90dc227e252c3.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
