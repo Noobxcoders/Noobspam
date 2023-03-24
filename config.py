@@ -7,7 +7,7 @@ from data import THE_ALTS
 API_ID = int(getenv("API_ID", "25981592"))
 API_HASH = getenv("API_HASH", "709f3c9d34d83873d3c7e76cdd75b866")
 SESSION1 = getenv("SESSION")
-ALIVE_PIC = getenv("ALIVE_PIC", "https://te.legra.ph/file/07d39b85c6cea32f15259.jpg")
+ALIVE_PIC = getenv("ALIVE_PIC", "https://te.legra.ph/file/b251302d90dc227e252c3.jpg")
 OWNER_ID = int(getenv("OWNER_ID", "5518687442"))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
